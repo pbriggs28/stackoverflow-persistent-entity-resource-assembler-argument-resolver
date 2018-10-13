@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/stackoverflow-persistent-entity-resource-assembler-argument-resolver.iml" filepath="$PROJECT_DIR$/stackoverflow-persistent-entity-resource-assembler-argument-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stackoverflow-persistent-entity-resource-assembler-argument-resolver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stackoverflow-persistent-entity-resource-assembler-argument-resolver_main.iml" group="stackoverflow-persistent-entity-resource-assembler-argument-resolver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stackoverflow-persistent-entity-resource-assembler-argument-resolver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stackoverflow-persistent-entity-resource-assembler-argument-resolver_test.iml" group="stackoverflow-persistent-entity-resource-assembler-argument-resolver" />
+    </modules>
+  </component>
+</project>
